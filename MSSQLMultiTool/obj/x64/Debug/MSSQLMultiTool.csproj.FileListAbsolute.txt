@@ -1,0 +1,11 @@
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\obj\x64\Debug\MSSQLMultiTool.csprojAssemblyReference.cache
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\obj\x64\Debug\MSSQLMultiTool.csproj.CoreCompileInputs.cache
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\bin\x64\Debug\MSSQLMultiTool.exe.config
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\bin\x64\Debug\MSSQLMultiTool.exe.manifest
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\bin\x64\Debug\MSSQLMultiTool.application
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\bin\x64\Debug\MSSQLMultiTool.exe
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\bin\x64\Debug\MSSQLMultiTool.pdb
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\obj\x64\Debug\MSSQLMultiTool.exe.manifest
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\obj\x64\Debug\MSSQLMultiTool.application
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\obj\x64\Debug\MSSQLMultiTool.exe
+C:\Users\localtemp\source\repos\MSSQLMultiTool\MSSQLMultiTool\obj\x64\Debug\MSSQLMultiTool.pdb

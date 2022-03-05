@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\localtemp\\source\\repos\\MSSQLMultiTool\\MSSQLMultiTool\\MSSQLMultiTool.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\localtemp\\source\\repos\\MSSQLMultiTool\\MSSQLMultiTool\\MSSQLMultiTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\localtemp\\source\\repos\\MSSQLMultiTool\\MSSQLMultiTool\\MSSQLMultiTool.csproj",
+        "projectName": "MSSQLMultiTool",
+        "projectPath": "C:\\Users\\localtemp\\source\\repos\\MSSQLMultiTool\\MSSQLMultiTool\\MSSQLMultiTool.csproj",
+        "packagesPath": "C:\\Users\\localtemp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\localtemp\\source\\repos\\MSSQLMultiTool\\MSSQLMultiTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\localtemp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
